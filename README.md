@@ -2,11 +2,6 @@
 
 # Addressing Data Scarcity in Medical Imaging: A Latent Diffusion Approach to Synthetic Tumor Generation
 
-[Anant Jamuar](mailto:jamuaranant@ieee.org)<sup>1</sup>, [Nikhil Verma](mailto:nikhilv129@gmail.com)<sup>2</sup>, [Sarisha P Sharma](mailto:sarishasharma01@gmail.com)<sup>1</sup>, [Dr. Mangala Gowri S G](mailto:mangalagowri_ece@sirmvit.edu)<sup>1 </sup>
-
-<sup>1</sup>Department of Electronics and Communication Engineering, </br>Sir M Visvesvaraya Institute of Technology, Bengaluru, India
-
-<sup>2</sup>Department of Information Science and Engineering, </br>Sir M Visvesvaraya Institute of Technology, Bengaluru, India
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-Framework-orange)](https://pytorch.org/)
