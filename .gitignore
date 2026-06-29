@@ -1,0 +1,14 @@
+# Ignore Data Folders
+BraTS2020_TrainingData/
+BraTS2020_ValidationData/
+processed_tumor_packs/
+processed_images/
+processed_master_file/
+processed_individual_tensors/
+
+# Ignore Python System files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+tumor_env/
+kaggle.json

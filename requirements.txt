@@ -1,0 +1,16 @@
+numpy
+nibabel
+pillow
+scikit-learn
+tqdm
+matplotlib
+ipywidgets
+jupyter
+torch
+kagglehub
+monai-generative 
+lpips
+torch
+torchvision
+matplotlib 
+"monai[tqdm]"
